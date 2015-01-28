@@ -1,0 +1,58 @@
+body
+{
+	background-color: #000000;
+}
+
+.top-bar
+{
+	font-size: 40px;
+	background-color: #444444;
+	color: #FFFFAA
+}
+
+.section
+{
+	font-size: 50px;
+	background-color: #FFFFFF;
+}
+
+.footer
+{
+	direction: ltr;
+	color: #33FF33;
+	font-size: 25px;
+	background-color: #777777;
+	font-style: italic;
+	font-family: "B Lotus";
+}
+
+.prog-table caption
+{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.prog-table
+{
+	width: 84%;
+	font-family: "B Zar";
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+	border-collapse: collapse;
+}
+
+.prog-table th
+{
+	width: 12%;
+	border: 3px solid green;
+}
+
+.section .selector select
+{
+	font-family: "B Lotus";
+	font-size: 30px;
+	width: 100%;
+	direction: rtl;
+}
